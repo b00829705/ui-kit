@@ -1,0 +1,20 @@
+.banner {
+  background-image: linear-gradient(-225deg, rgba(0,0,0,0.6) 0%, rgba(0,0,0,0.2) 60%), url('https://source.unsplash.com/1600x900/?city,night');
+  background-size: cover;
+  background-position: center;
+  padding: 150px 0;
+  text-align: center;
+}
+
+.banner h1 {
+  color: #fff;
+  font-size: 50px;
+}
+
+.banner h2 {
+  color: #fff;
+  font-size: 30px;
+  font-weight: 300;
+  opacity: 0.9;
+  margin-bottom: 24px;
+}
